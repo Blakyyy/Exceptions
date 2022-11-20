@@ -9,7 +9,7 @@ public class hw1sem3 {
         askForInfo();
     }
 
-    public static String askForInfo(){
+    public static void askForInfo(){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please write your surname, name, patronymic, date of birth(dd.mm.yyyy), telephone number, gender(M/F)\nEverything must be writed with spaces in between!!");
         String allInfo = scanner.nextLine();
@@ -23,9 +23,6 @@ public class hw1sem3 {
                 }
             }
         }
-        return allInfo;
-
-
     }
 
     private static boolean checkForSpaces(String allInfo){
