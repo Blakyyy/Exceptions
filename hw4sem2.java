@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class hw4sem4 {
+public class hw4sem2 {
     public static void main(String[] args) {
         StrMethod();
     }

@@ -1,4 +1,4 @@
-public class hw3sem3 {
+public class hw3sem2 {
     public static void main(String[] args) {
         try {
             int a = 90;
