@@ -5,6 +5,7 @@ public class ex1 {
         int[] arr = {1, 2, 3, 4};
         int[] exArr = {};
         System.out.println(arrLen(exArr)); 
+        System.out.println(arr);
     }
 
     public static int arrLen(int[] array) {
