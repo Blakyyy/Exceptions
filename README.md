@@ -1,4 +1,4 @@
-#Java Exceptions Homework Repository
+Java Exceptions Homework Repository
 ===================================
 
 This repository contains homework tasks and practice exercises for handling Java exceptions. Properly handling exceptions is crucial for developing robust and fault-tolerant Java applications. The main goal of this repository is to help you practice and improve your Java exception handling skills.
